@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83cacaf4-4ca4-4135-8ba4-3714e38d7174" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chat_befor06/Client0_2_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/问题总结.text">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>txtSend</find>
+      <find>pWriters</find>
+      <find>bReader</find>
+      <find>Server_up03</find>
+      <find>ClientThread</find>
+      <find>sl</find>
+      <find>Server0_2_1</find>
+      <find>station</find>
+      <find>strTime</find>
+      <find>msgList</find>
+      <find>message.getSender</find>
+      <find>add</find>
+      <find>Uers</find>
+      <find>setListUsers</find>
+      <find>user</find>
+      <find>users</find>
+      <find>setSender</find>
+      <find>SendMsgToClient</find>
+      <find>用户登录了</find>
+      <find>登录了</find>
+      <find>user1</find>
+      <find>用户</find>
+      <find>CCCCCCCCCCCsssssssssen</find>
+      <find>欢迎你</find>
+      <find>objectInputStreams</find>
+      <find>SendMsgtoClient</find>
+      <find>pool</find>
+      <find>message.getContent().equals(&quot;esc&quot;)</find>
+      <find>objectInputStream</find>
+      <find>losed12</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Server0_2_1</replace>
+      <replace>StarSer</replace>
+      <replace>statu</replace>
+      <replace>user</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/help.java" />
+        <option value="$PROJECT_DIR$/src/HeartClient.java" />
+        <option value="$PROJECT_DIR$/src/HeartServer.java" />
+        <option value="$PROJECT_DIR$/src/Login.java" />
+        <option value="$PROJECT_DIR$/src/Server.java" />
+        <option value="$PROJECT_DIR$/src/Client.java" />
+        <option value="$PROJECT_DIR$/src/Client0_2_1.java" />
+        <option value="$PROJECT_DIR$/src/help_chat/ChatClient.java" />
+        <option value="$PROJECT_DIR$/src/chat0_1/Server.java" />
+        <option value="$PROJECT_DIR$/src/chat_0_2_1/Client0_2_2.java" />
+        <option value="$PROJECT_DIR$/src/help_chat/src/main/java/top/T.java" />
+        <option value="$PROJECT_DIR$/src/help_chat/top/T.java" />
+        <option value="$PROJECT_DIR$/src/help_chat/top/goschen/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/help_chat/top/goschen/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/help_chat/top/goschen/entity/MyFrame.java" />
+        <option value="$PROJECT_DIR$/src/help_chat/top/goschen/Server.java" />
+        <option value="$PROJECT_DIR$/src/help_chat/top/goschen/utils/JDBCUtil.java" />
+        <option value="$PROJECT_DIR$/src/help_chat/top/goschen/entity/ServerThread.java" />
+        <option value="$PROJECT_DIR$/src/top/goschen/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/chat_0_2_1/Server0_2_1.java" />
+        <option value="$PROJECT_DIR$/src/login.java" />
+        <option value="$PROJECT_DIR$/src/chat_up03/Client0_2_2.java" />
+        <option value="$PROJECT_DIR$/src/chat_up03/Server_up03.java" />
+        <option value="$PROJECT_DIR$/src/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/LoginFrame.java" />
+        <option value="$PROJECT_DIR$/src/chat_0_2_1/Client0_2_1.java" />
+        <option value="$PROJECT_DIR$/src/User.java" />
+        <option value="$PROJECT_DIR$/src/chat_up03/User.java" />
+        <option value="$PROJECT_DIR$/src/chat_up03/Message.java" />
+        <option value="$PROJECT_DIR$/src/chat_up03/Server0_2_1.java" />
+        <option value="$PROJECT_DIR$/src/chat_up03/Client0_2_1.java" />
+        <option value="$PROJECT_DIR$/src/help_chat/ChatServer.java" />
+        <option value="$PROJECT_DIR$/src/chatup04/Message.java" />
+        <option value="$PROJECT_DIR$/src/chat_before05/User.java" />
+        <option value="$PROJECT_DIR$/src/chatup04/User.java" />
+        <option value="$PROJECT_DIR$/src/help_chat/HeartServer.java" />
+        <option value="$PROJECT_DIR$/src/chat0_1/Client.java" />
+        <option value="$PROJECT_DIR$/src/chatup04/Client0_2_1.java" />
+        <option value="$PROJECT_DIR$/src/chatup04/Server0_2_1.java" />
+        <option value="$PROJECT_DIR$/src/chat0_1/Client0_2_1.java" />
+        <option value="$PROJECT_DIR$/src/chat_before05/Client0_2_1.java" />
+        <option value="$PROJECT_DIR$/src/chat0_1/Server0_2_1.java" />
+        <option value="$PROJECT_DIR$/src/chat_before05/Server0_2_1.java" />
+        <option value="$PROJECT_DIR$/src/chat_befor06/Server0_2_1.java" />
+        <option value="$PROJECT_DIR$/src/chat_befor06/Client0_2_1.java" />
+        <option value="$PROJECT_DIR$/src/问题总结.text" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="71" />
+    <option name="y" value="8" />
+    <option name="width" value="1070" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/Server.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="loginFrame" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chat_up03" />
+      <recent name="chat_0_2_1" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\awangaxxn-Last_Hotel-master\untitled2\src\chat_befor06" />
+      <recent name="C:\Users\Administrator\Desktop\awangaxxn-Last_Hotel-master\untitled2\src\chat0_1" />
+      <recent name="C:\Users\Administrator\Desktop\awangaxxn-Last_Hotel-master\untitled2\src\chatup04" />
+      <recent name="C:\Users\Administrator\Desktop\awangaxxn-Last_Hotel-master\untitled2\src\chat_before05" />
+      <recent name="C:\Users\Administrator\Desktop\awangaxxn-Last_Hotel-master\untitled2\src\chat_up03" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="Service" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Client0_2_1 (1)">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chat0_1.Client" />
+      <module name="untitled2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chat0_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client0_2_1 (1)" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chat_before05.Client0_2_1" />
+      <module name="untitled2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chat_before05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client0_2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chatup04.Client0_2_1" />
+      <module name="untitled2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chatup04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server0_2_1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chat_before05.Server0_2_1" />
+      <module name="untitled2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chat_before05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server0_2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chatup04.Server0_2_1" />
+      <module name="untitled2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chatup04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.sun.corba.se.impl.activation.ServerMain" />
+      <module name="untitled2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.Server0_2_1" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Server0_2_1 (1)" />
+      <item itemvalue="Application.Client0_2_1 (1)" />
+      <item itemvalue="Application.Client0_2_1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client0_2_1 (1)" />
+        <item itemvalue="Application.Server0_2_1 (1)" />
+        <item itemvalue="Application.Client0_2_1" />
+        <item itemvalue="Application.Server0_2_1" />
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83cacaf4-4ca4-4135-8ba4-3714e38d7174" name="Default Changelist" comment="" />
+      <created>1587695004066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587695004066</updated>
+      <workItem from="1587695007186" duration="4677000" />
+      <workItem from="1587701741410" duration="5115000" />
+      <workItem from="1587707186550" duration="2284000" />
+      <workItem from="1587711291104" duration="4116000" />
+      <workItem from="1587723834016" duration="16000" />
+      <workItem from="1587738546589" duration="6195000" />
+      <workItem from="1587775472746" duration="31184000" />
+      <workItem from="1587914459398" duration="122000" />
+      <workItem from="1587956841881" duration="16396000" />
+      <workItem from="1587974001151" duration="7341000" />
+      <workItem from="1587992879870" duration="3273000" />
+      <workItem from="1588001521425" duration="3902000" />
+      <workItem from="1588033452562" duration="17590000" />
+      <workItem from="1588052087607" duration="15086000" />
+      <workItem from="1588084087133" duration="2607000" />
+      <workItem from="1588119766239" duration="27808000" />
+      <workItem from="1588173363695" duration="5208000" />
+      <workItem from="1588214335967" duration="3860000" />
+      <workItem from="1588219498738" duration="19868000" />
+      <workItem from="1588239738667" duration="1157000" />
+      <workItem from="1588339669347" duration="8153000" />
+      <workItem from="1588349097687" duration="2522000" />
+      <workItem from="1588380913948" duration="1877000" />
+      <workItem from="1588494617321" duration="12000" />
+      <workItem from="1588729930434" duration="28854000" />
+      <workItem from="1588774632040" duration="605000" />
+      <workItem from="1588785969471" duration="3359000" />
+      <workItem from="1588808684463" duration="506000" />
+      <workItem from="1588814313581" duration="4067000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="227760000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="936" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17394821" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329602" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49514562" visible="true" weight="0.16915423" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49919093" weight="0.53109455" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49919093" weight="0.329602" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5048544" side_tool="true" weight="0.12935324" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.329602" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32928804" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32928804" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$2/ChatClient.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="105" column="11" selection-start-line="105" selection-start-column="11" selection-end-line="105" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/help_chat/src/main/java/top/T.java" />
+    <entry file="file://G:/明德/socketTest/socketTest.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://G:/明德/socketTest/src/main/resources/s.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/help_chat/top/goschen/dao/UserDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/help_chat/top/goschen/entity/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/help_chat/top/goschen/Server.java" />
+    <entry file="file://$PROJECT_DIR$/src/help_chat/top/T.java" />
+    <entry file="file://$PROJECT_DIR$/src/help_chat/top/goschen/entity/MyFrame.java" />
+    <entry file="file://$PROJECT_DIR$/src/help_chat/top/goschen/utils/JDBCUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/help_chat/top/goschen/entity/ServerThread.java" />
+    <entry file="file://$PROJECT_DIR$/src/top/goschen/Client.java" />
+    <entry file="file://$PROJECT_DIR$/src/top/goschen/Server.java" />
+    <entry file="file://$PROJECT_DIR$/src/top/T.java" />
+    <entry file="file://$PROJECT_DIR$/src/top/goschen/dao/UserDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/dao/UserDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/LoginFrame.java" />
+    <entry file="file://$PROJECT_DIR$/src/chat_up03/Client0_2_2.java" />
+    <entry file="file://$PROJECT_DIR$/src/chat_up03/Server_up03.java" />
+    <entry file="file://$PROJECT_DIR$/src/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/chat_0_2_1/Server0_2_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-640">
+          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#313#321#0" expanded="true" />
+            <element signature="e#378#394#0" expanded="true" />
+            <element signature="e#448#461#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chat_0_2_1/Client0_2_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="45" column="22" lean-forward="true" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$5/day02【Collection、泛型】-笔记.md" />
+    <entry file="file://$PROJECT_DIR$/src/chat_up03/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chat_up03/Server0_2_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chat_up03/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#407#413#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#691#692#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#793#794#0" expanded="true" />
+            <element signature="e#841#842#0" expanded="true" />
+            <element signature="e#881#882#0" expanded="true" />
+            <element signature="e#915#916#0" expanded="true" />
+            <element signature="e#945#946#0" expanded="true" />
+            <element signature="e#991#992#0" expanded="true" />
+            <element signature="e#1029#1030#0" expanded="true" />
+            <element signature="e#1061#1062#0" expanded="true" />
+            <element signature="e#1088#1089#0" expanded="true" />
+            <element signature="e#1128#1129#0" expanded="true" />
+            <element signature="e#1160#1161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chat_up03/Client0_2_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="87" column="5" lean-forward="true" selection-start-line="44" selection-start-column="8" selection-end-line="87" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chat_before05/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-79" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chatup04/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chatup04/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/help_chat/ChatServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#415#431#0" expanded="true" />
+            <element signature="e#482#495#0" expanded="true" />
+            <element signature="e#541#549#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/help_chat/HeartClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/help_chat/HeartServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="72" column="32" selection-start-line="72" selection-start-column="32" selection-end-line="72" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#184#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/help_chat/ChatClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chat0_1/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chatup04/Client0_2_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="301" selection-start-line="301" selection-end-line="315" selection-end-column="5" />
+          <folding>
+            <element signature="e#537#545#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chatup04/Server0_2_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="93" column="29" lean-forward="true" selection-start-line="93" selection-start-column="29" selection-end-line="93" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/io/ObjectInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="370" column="25" selection-start-line="370" selection-start-column="25" selection-end-line="370" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/net/SocketInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="115" selection-start-line="115" selection-end-line="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chat0_1/Server0_2_1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chat0_1/Client0_2_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="215" column="24" selection-start-line="215" selection-start-column="24" selection-end-line="215" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chat0_1/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chat_before05/Client0_2_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1580">
+          <caret line="79" column="14" lean-forward="true" selection-start-line="79" selection-start-column="14" selection-end-line="79" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chat_before05/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chat_befor06/Server0_2_1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chat_befor06/Message.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chat_befor06/User.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chat_before05/Server0_2_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="15" selection-start-line="15" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chat_befor06/Client0_2_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/问题总结.text">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
